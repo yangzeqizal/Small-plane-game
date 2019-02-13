@@ -1,0 +1,208 @@
+{
+	"SysInfo": {
+		"Flag": 0,
+		"Msg": "",
+		"SvcName": "10181058Q4",
+		"Sender": "",
+		"messageTypeId": "",
+		"messageId": 0,
+		"UUID": ""
+	},
+	"Tables": [{
+		"Name": "body",
+		"Columns": [{
+			"Name": "sample_lot_no",
+			"DataType": "S",
+			"Caption": "试批号"
+		},
+		{
+			"Name": "entr_num",
+			"DataType": "I",
+			"Caption": "委托次数"
+		},
+		{
+			"Name": "test_times",
+			"DataType": "I",
+			"Caption": "初检复验次数"
+		},
+		{
+			"Name": "order_no",
+			"DataType": "S",
+			"Caption": "合同号"
+		},
+		{
+			"Name": "msc",
+			"DataType": "S",
+			"Caption": "冶金规范码"
+		},
+		{
+			"Name": "msc_line_no",
+			"DataType": "S",
+			"Caption": "产线号"
+		},
+		{
+			"Name": "prod_class_code",
+			"DataType": "S",
+			"Caption": "产品大类代码"
+		},
+		{
+			"Name": "prod_class_desc",
+			"DataType": "S",
+			"Caption": "产品大类码描述"
+		},
+		{
+			"Name": "prod_code",
+			"DataType": "S",
+			"Caption": "品名代码"
+		},
+		{
+			"Name": "prod_cname",
+			"DataType": "S",
+			"Caption": "品名中文"
+		},
+		{
+			"Name": "std_sg_code",
+			"DataType": "S",
+			"Caption": "标准牌号(钢级)代码"
+		},
+		{
+			"Name": "sg_std",
+			"DataType": "S",
+			"Caption": "标准"
+		},
+		{
+			"Name": "sg_sign",
+			"DataType": "S",
+			"Caption": "牌号（钢级）"
+		},
+		{
+			"Name": "st_no",
+			"DataType": "S",
+			"Caption": "出钢记号"
+		},
+		{
+			"Name": "rep_mat_no",
+			"DataType": "S",
+			"Caption": "代表材料号"
+		},
+		{
+			"Name": "pono",
+			"DataType": "S",
+			"Caption": "制造命令号"
+		},
+		{
+			"Name": "heat_no",
+			"DataType": "S",
+			"Caption": "熔炼号"
+		},
+		{
+			"Name": "measure_1",
+			"DataType": "F",
+			"Caption": "材料的规格1"
+		},
+		{
+			"Name": "measure_2",
+			"DataType": "F",
+			"Caption": "材料的规格2"
+		},
+		{
+			"Name": "measure_3",
+			"DataType": "F",
+			"Caption": "材料的规格3"
+		},
+		{
+			"Name": "measure_4",
+			"DataType": "F",
+			"Caption": "材料的规格4"
+		},
+		{
+			"Name": "test_remark",
+			"DataType": "S",
+			"Caption": "委托备注"
+		},
+		{
+			"Name": "entr_div",
+			"DataType": "S",
+			"Caption": "委托区分"
+		},
+		{
+			"Name": "sample_len",
+			"DataType": "I",
+			"Caption": "取样长度"
+		},
+		{
+			"Name": "sample_num_rnd",
+			"DataType": "I",
+			"Caption": "取样个数"
+		},
+		{
+			"Name": "sample_purpose_code",
+			"DataType": "S",
+			"Caption": "取样目的代码"
+		},
+		{
+			"Name": "sample_frqn_code",
+			"DataType": "S",
+			"Caption": "取样频率代码"
+		},
+		{
+			"Name": "sample_num_head",
+			"DataType": "I",
+			"Caption": "头部取样个数"
+		},
+		{
+			"Name": "sample_num_mid",
+			"DataType": "I",
+			"Caption": "中部取样个数"
+		},
+		{
+			"Name": "sample_num_tail",
+			"DataType": "I",
+			"Caption": "尾部取样个数"
+		},
+		{
+			"Name": "mat_no",
+			"DataType": "S",
+			"Caption": "材料号"
+		},
+		{
+			"Name": "rep_mat_flag",
+			"DataType": "S",
+			"Caption": "代表材料标记"
+		}],
+		"Rows": [{
+			"sample_lot_no": "H61808290001",
+			"entr_num": 1,
+			"test_times": 1,
+			"order_no": "B180801010",
+			"msc": null,
+			"msc_line_no": null,
+			"prod_class_code": null,
+			"prod_class_desc": null,
+			"prod_code": null,
+			"prod_cname": null,
+			"std_sg_code": null,
+			"sg_std": null,
+			"sg_sign": null,
+			"st_no": null,
+			"rep_mat_no": null,
+			"pono": null,
+			"heat_no": null,
+			"measure_1": null,
+			"measure_2": null,
+			"measure_3": null,
+			"measure_4": null,
+			"test_remark": null,
+			"entr_div": null,
+			"sample_len": null,
+			"sample_num_rnd": null,
+			"sample_purpose_code": null,
+			"sample_frqn_code": null,
+			"sample_num_head": null,
+			"sample_num_mid": null,
+			"sample_num_tail": null,
+			"mat_no": null,
+			"rep_mat_flag": "18CD000001"
+		}]
+	}]
+}
